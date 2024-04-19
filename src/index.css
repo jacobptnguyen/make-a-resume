@@ -1,0 +1,12 @@
+
+:root{
+  background-color: #f9e4bc;
+}
+
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

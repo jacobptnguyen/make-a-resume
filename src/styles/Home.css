@@ -1,0 +1,19 @@
+
+
+.homeButton{
+    background-color: #FFFDD0;
+    color: black;
+    font-size: 50px;
+    height: 200px;
+    width: 500px;
+    border-radius: 30px;
+    border-color: transparent;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
