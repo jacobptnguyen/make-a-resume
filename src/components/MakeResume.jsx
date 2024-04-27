@@ -160,7 +160,7 @@ function MakeResume({setMode, addResume, resumeAr}){
                 <button className='plus' onClick={(event) => {event.preventDefault(); changeContactAr("append")}}>+</button>
             </div> */}
 
-            <input onChange={changeContact} className='inputBox' type='text' placeholder='enter social links'></input>
+            <input onChange={changeContact} className='inputBox' type='text' placeholder='enter phone numbers and emails'></input>
             <input onChange={changeSocial} className='inputBox' type='text' placeholder='enter social links'></input>
         </div>
 
