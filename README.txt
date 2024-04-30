@@ -7,3 +7,4 @@ Made in react.
 
 I followed this website to run a react environment:
 https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment
+make sure to download the node_modules folder to run it
